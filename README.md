@@ -25,6 +25,8 @@ Admins can dynamically add cases and suspects, making the game replayable and sc
 
 ## 🏗️ Project Architecture (MVC)
 
+```
+
 InteractiveDetective/
 │
 ├── src/
@@ -41,6 +43,7 @@ InteractiveDetective/
 ├── README.md
 └── .gitignore
 
+```
 
 ---
 
@@ -102,10 +105,8 @@ Sample Gameplay Flow
 3. Add Suspect to Case (Admin)
 4. Exit
 
-
-- Admin adds cases & suspects
-- Player selects a case
-- Interrogates suspects
-- Accuses culprit
-
 ```
+-  Admin adds cases & suspects
+-  Player selects a case
+-  Interrogates suspects
+-  Accuses culprit
